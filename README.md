@@ -50,24 +50,23 @@ That observation became one of the most valuable outcomes of this project.
 
 ## Repository Contents
 
-Detailed Project Report
+[LTspice Circuit Schematic](Circuit_Connections/LTspice_Schematic.png)
 
- LTspice Simulation Files
+[Different Stages of Output Waveforms](Output_Waveforms)
 
-Hardware Implementation Images
+[Breadboard Connection Image](Circuit_Connections/Breadboard_Implementation.jpeg)
 
-Practical Demonstration Video
+[Practical Demonstration Video](Physical_Measurement_Visuals.mp4)
 
-Circuit Schematic
+[Detailed Project Report](Power_Supply_Project_Report.pdf)
 
-Output Measurements
 
 ---
 
 ## Detailed Understanding
 For complete theory, circuit explanation, calculations, observations, LTspice analysis and hardware implementation details, see the **Project Report**.
 
- **Power_Supply_Project_Report.pdf**
+ [**Power_Supply_Project_Report.pdf**](Power_Supply_Project_Report.pdf)
 
 ---
 
